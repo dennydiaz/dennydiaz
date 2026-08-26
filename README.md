@@ -7,3 +7,9 @@
 
 ###
 ###
+<div data-importer="stats" align="left">
+  <img src="https://raw.githubusercontent.com/dennydiaz/dennydiaz/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/dennydiaz/dennydiaz/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
