@@ -1,0 +1,5 @@
+1. Abra o repositório público com o mesmo nome do seu usuário GitHub.
+2. Substitua o README.md pelo arquivo desta pasta.
+3. Envie a pasta assets com os três SVGs.
+4. Confira a aba Preview antes de salvar.
+5. Não adicione dados, telas, endereços ou configurações do estágio.
