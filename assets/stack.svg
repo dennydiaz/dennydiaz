@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="255" viewBox="0 0 900 255" role="img" aria-labelledby="t d">
+<title id="t">Tech Stack and Learning</title><desc id="d">Ferramentas e conhecimentos: Linux, Git, GitHub, C e fundamentos de redes. Em estudo: Rust, NoSQL, computação em nuvem e cibersegurança.</desc>
+<rect x="1" y="1" width="898" height="253" rx="15" fill="#151720" stroke="#76538f" stroke-width="2"/>
+<text x="30" y="40" font-family="DejaVu Sans Mono,monospace" font-size="22" font-weight="bold" fill="#c18cff">✦ TECH STACK</text>
+<path d="M30 57H870" stroke="#373047"/>
+<g font-family="DejaVu Sans Mono,monospace" font-size="18">
+<text x="38" y="91" fill="#c18cff">&gt; Conhecimentos e ferramentas</text>
+<text x="56" y="124" fill="#e0d7eb">Linux  ·  Git  ·  GitHub  ·  C</text>
+<text x="56" y="151" fill="#e0d7eb">Fundamentos de redes</text>
+<text x="38" y="190" fill="#c18cff">&gt; Em estudo / próximos passos</text>
+<text x="56" y="223" fill="#e0d7eb">Rust  ·  NoSQL  ·  Cloud  ·  Cybersecurity</text>
+</g></svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-labelledby="t d">
+<title id="t">Areas of Interest</title><desc id="d">Infraestrutura de TI, redes de computadores, cibersegurança e desenvolvimento de software.</desc>
+<rect x="1" y="1" width="898" height="228" rx="15" fill="#151720" stroke="#76538f" stroke-width="2"/>
+<text x="30" y="40" font-family="DejaVu Sans Mono,monospace" font-size="22" font-weight="bold" fill="#c18cff">✦ AREAS OF INTEREST</text>
+<path d="M30 57H870" stroke="#373047"/>
+<g font-family="DejaVu Sans Mono,monospace" font-size="18" fill="#dcd0ed">
+<text x="38" y="91"><tspan fill="#c18cff">&gt;</tspan> Infraestrutura de TI</text>
+<text x="38" y="127"><tspan fill="#c18cff">&gt;</tspan> Redes de computadores</text>
+<text x="38" y="163"><tspan fill="#c18cff">&gt;</tspan> Cibersegurança</text>
+<text x="38" y="199"><tspan fill="#c18cff">&gt;</tspan> Desenvolvimento de software</text>
+</g></svg>
