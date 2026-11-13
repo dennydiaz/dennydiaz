@@ -18,6 +18,15 @@ Tenho interesse em **Linux, infraestrutura, cibersegurança e desenvolvimento de
 <p align="center"><img src="./assets/learning.svg" width="100%" alt="Estudos atuais: Linux, redes, nuvem, NoSQL e C" /></p>
 <p align="center"><img src="./assets/goals.svg" width="100%" alt="Próximos passos: cibersegurança, Rust e projetos pessoais" /></p>
 <p align="center">
+
+<p align="center">
+  <img src="./assets/interests.svg" width="100%" alt="Áreas de interesse: infraestrutura, redes, cibersegurança e desenvolvimento" />
+</p>
+
+<p align="center">
+  <img src="./assets/stack.svg" width="100%" alt="Tecnologias e ferramentas em uso e estudo" />
+</p>
+
 <div align="center">
 
 *Learning quietly. Building consistently. ☾*
