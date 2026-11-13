@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="195" viewBox="0 0 900 195" role="img" aria-label="☆  NEXT STEPS">
-<rect width="900" height="100%" rx="16" fill="#0d1117"/>
-<rect x="2" y="2" width="896" height="191" rx="14" fill="#151923" stroke="#5d477e" stroke-width="2"/>
-<text x="30" y="43" fill="#c6a2ff" font-family="monospace" font-size="22" font-weight="bold">☆  NEXT STEPS</text>
-<line x1="30" y1="59" x2="870" y2="59" stroke="#49365e"/>
-<text x="34" y="93" fill="#caa4ff" font-family="monospace" font-size="17">&gt; Aprofundar meus estudos em cibersegurança</text>
-<text x="34" y="124" fill="#caa4ff" font-family="monospace" font-size="17">&gt; Evoluir gradualmente meus conhecimentos em Rust</text>
-<text x="34" y="155" fill="#caa4ff" font-family="monospace" font-size="17">&gt; Construir projetos pessoais e documentar aprendizados</text>
-</svg>
